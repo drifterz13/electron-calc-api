@@ -1,5 +1,7 @@
 ## electron-calc-api
 
+**first time http request take some time.** 
+
 ### Register
 
 ```
